@@ -1,4 +1,7 @@
 {
+    "autoload": {
+"psr-4": { "helpers\\": ["helpers/"] }
+},
     "require": {
         "twig/twig": "^3.27.1"
     }
